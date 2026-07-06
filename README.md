@@ -1,4 +1,4 @@
-# #  Titanic Survival Prediction - Complete ML Pipeline
+#   Titanic Survival Prediction - Complete ML Pipeline
 # Project Overview
 
 This project is a **complete end-to-end Machine Learning workflow** built using the classic Titanic dataset. 
