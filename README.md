@@ -1,14 +1,5 @@
-# Machine_Learning_basics
+# #  Titanic Survival Prediction - Complete ML Pipeline
 # Project Overview
-
-This project is a **complete end-to-end Machine Learning workflow** built using the classic Titanic dataset. 
-The goal is to predict whether a passenger survived the disaster based on features like age, gender, ticket class, and fare.
-
-Instead of just building one model, this repository walks through **every single step** of a real-world data science project—from raw CSV data to a production-ready, tuned, and saved model.
-
-#  Titanic Survival Prediction - Complete ML Pipeline
-
-##  Project Overview
 
 This project is a **complete end-to-end Machine Learning workflow** built using the classic Titanic dataset. 
 The goal is to predict whether a passenger survived the disaster based on features like age, gender, ticket class, and fare.
